@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Data / AI Engineer — Multi-Agent Systems & Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+multi-agent+AI+systems;LangGraph+%7C+dbt+%7C+Snowflake+%7C+Python;Data+products+for+Francophone+Africa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+multi-agent+AI+systems;LangGraph+%7C+dbt+%7C+Snowflake+%7C+Python;Data+products+for+Reinforcement+Learning" alt="Typing SVG" />
 </p>
 
 ---
