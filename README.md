@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Salut, je suis Juan 👋</h1>
+<h1 align="center">Hi, I'm Juan 👋</h1>
 <h3 align="center">Data / AI Engineer — Multi-Agent Systems & Automation</h3>
 
 <p align="center">
@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧭 À propos
+### 🧭 About Me
 
-Je conçois des **systèmes d'agents IA**, des **pipelines d'automatisation** et des **dashboards data**, avec une double casquette : deliverables exécutifs (rapports, présentations automatisées) et travail d'ingénierie (code, architectures, pipelines).
+I design **AI agent systems**, **automation pipelines**, and **data dashboards**, working across both executive deliverables (reports, automated presentations) and engineering-level work (code, architectures, pipelines).
 
-- 🔭 Actuellement sur des projets d'automatisation et d'agents IA (reporting, traitement documentaire, intégrations MCP)
-- 🌱 En exploration continue : architectures multi-agents, RAG, fine-tuning (LoRA), token economy
-- 🌍 Basé à Douala, Cameroun — je construis aussi des produits pour les marchés francophones africains
-- 💬 Français / English — technique en anglais, contexte en français
+- 🔭 Currently working on automation and AI agent projects (reporting, document processing, MCP integrations)
+- 🌱 Continuously exploring: multi-agent architectures, RAG, fine-tuning (LoRA), token economy
+- 🌍 Based in Douala, Cameroon — also building products for Francophone African markets
+- 💬 French / English — technical work in English, context in French
 
 ---
 
-### 🛠️ Stack & Outils
+### 🛠️ Stack & Tools
 
-**Langages & Frameworks**
+**Languages & Frameworks**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -48,19 +48,19 @@ Je conçois des **systèmes d'agents IA**, des **pipelines d'automatisation** et
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**IA & Automatisation**
-Multi-agent orchestration · RAG · Génération PPTX/DOCX automatisée · MCP integrations
+**AI & Automation**
+Multi-agent orchestration · RAG · Automated PPTX/DOCX generation · MCP integrations
 
 ---
 
-### 🚀 Projets phares
+### 🚀 Featured Projects
 
-- **🎯 [Morpho-Sonar](https://github.com/juankroos/Morpho-Sonar)** — Système multi-agent autonome pour le traitement des signaux.
-- **🧠 [Reinforcement-learning](https://github.com/juankroos/Reinforcement-learning)** — Implémentations d'algorithmes de reinforcement learning.
-- **📊 [BigData-introduction](https://github.com/juankroos/BigData-introduction)** — Prédiction sur données avec Pandas et NumPy.
-- **🎵 [SoundIA](https://github.com/juankroos/SoundIA)** — Générateur de playlists.
-- **🔍 [DistriSearch_framework](https://github.com/juankroos/DistriSearch_framework)** — Framework d'indexation inversée distribuée.
-- **👁️ [The-Eye-of-Horus](https://github.com/juankroos/The-Eye-of-Horus)** — Projet de vision / détection.
+- **🎯 [Morpho-Sonar](https://github.com/juankroos/Morpho-Sonar)** — Autonomous multi-agent system for signal processing.
+- **🧠 [Reinforcement-learning](https://github.com/juankroos/Reinforcement-learning)** — Reinforcement learning algorithm implementations.
+- **📊 [BigData-introduction](https://github.com/juankroos/BigData-introduction)** — Data prediction using Pandas and NumPy.
+- **🎵 [SoundIA](https://github.com/juankroos/SoundIA)** — Playlist generator.
+- **🔍 [DistriSearch_framework](https://github.com/juankroos/DistriSearch_framework)** — Distributed reverse-indexing framework.
+- **👁️ [The-Eye-of-Horus](https://github.com/juankroos/The-Eye-of-Horus)** — Vision / detection project.
 
 ---
 
@@ -77,9 +77,9 @@ Multi-agent orchestration · RAG · Génération PPTX/DOCX automatisée · MCP i
 
 ---
 
-### 📫 Me contacter
+### 📫 Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/VOTRE_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:VOTRE_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
